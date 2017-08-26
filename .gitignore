@@ -1,3 +1,4 @@
 *.RData
 *.Rhistory
 /data_unit1_1/*
+Unit*_cache
