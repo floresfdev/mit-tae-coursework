@@ -1,3 +1,5 @@
 *.RData
 *.Rhistory
-/data_unit1_1/*
+/unit1/data_unit1_1/*
+/unit1/data_unit1_2/*
+/unit1/data_unit1_3/*
