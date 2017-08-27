@@ -40,7 +40,7 @@ The course uses R scripts for learning and evaluation purposes:
   1. Investment management under taxation
   2. Filatoi Riuniti - Optimizing the production schedule
   3. Gasoline blending
-  - Spreadsheets have `Problem`/`Formulation` sheets where the problem is formulated, and a `QandAnswers` sheet with the questions and answers evaluated.
+   Spreadsheets contains a `Problem`/`Formulation` sheet where the problem is formulated, and a `QandAnswers` sheet with the questions and answers evaluated.
 - Unit 9:
   1. 
   2. 
